@@ -48,8 +48,8 @@ void setup()
   pinMode(AN7, OUTPUT);
   
   pinMode(CT1, OUTPUT);
-  pinMode(CT1, OUTPUT);
-  pinMode(CT1, OUTPUT);
+  pinMode(CT2, OUTPUT);
+  pinMode(CT3, OUTPUT);
   
 }
 
